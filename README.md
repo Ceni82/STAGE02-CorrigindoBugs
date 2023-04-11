@@ -4,7 +4,7 @@
 Stage 02 - Introdução ao HTML e CSS
 
 ## FOI ABORDADO NESSE DESAFIO:
-Nesse desafio resebemos um código com o projeto desenvolvido durante as aulas da Fase 02. 
+Nesse desafio recebemos um código com o projeto desenvolvido durante as aulas da Fase 02. 
 O código sofreu algumas alterações nos principais pontos abordados nessa fase, o desafio era deixa-lo coma mesma cara do inicio!
 ## LINK DO PROJETO
 
